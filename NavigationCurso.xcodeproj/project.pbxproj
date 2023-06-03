@@ -16,6 +16,8 @@
 		85B516B62A27FC0C002530C9 /* NavigationCursoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B516B52A27FC0C002530C9 /* NavigationCursoTests.swift */; };
 		85B516C02A27FC0D002530C9 /* NavigationCursoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B516BF2A27FC0D002530C9 /* NavigationCursoUITests.swift */; };
 		85B516C22A27FC0D002530C9 /* NavigationCursoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B516C12A27FC0D002530C9 /* NavigationCursoUITestsLaunchTests.swift */; };
+		85B516CF2A27FEBC002530C9 /* Tela02ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B516CE2A27FEBC002530C9 /* Tela02ViewController.swift */; };
+		85B516D12A2801DA002530C9 /* UltimaTelaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B516D02A2801DA002530C9 /* UltimaTelaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		85B516BB2A27FC0D002530C9 /* NavigationCursoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationCursoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		85B516BF2A27FC0D002530C9 /* NavigationCursoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationCursoUITests.swift; sourceTree = "<group>"; };
 		85B516C12A27FC0D002530C9 /* NavigationCursoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationCursoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		85B516CE2A27FEBC002530C9 /* Tela02ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela02ViewController.swift; sourceTree = "<group>"; };
+		85B516D02A2801DA002530C9 /* UltimaTelaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UltimaTelaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				85B516A72A27FC0C002530C9 /* Assets.xcassets */,
 				85B516A92A27FC0C002530C9 /* LaunchScreen.storyboard */,
 				85B516AC2A27FC0C002530C9 /* Info.plist */,
+				85B516CE2A27FEBC002530C9 /* Tela02ViewController.swift */,
+				85B516D02A2801DA002530C9 /* UltimaTelaViewController.swift */,
 			);
 			path = NavigationCurso;
 			sourceTree = "<group>";
@@ -258,7 +264,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85B516CF2A27FEBC002530C9 /* Tela02ViewController.swift in Sources */,
 				85B516A32A27FC0B002530C9 /* ViewController.swift in Sources */,
+				85B516D12A2801DA002530C9 /* UltimaTelaViewController.swift in Sources */,
 				85B5169F2A27FC0B002530C9 /* AppDelegate.swift in Sources */,
 				85B516A12A27FC0B002530C9 /* SceneDelegate.swift in Sources */,
 			);
